@@ -4,7 +4,6 @@
 ### Nombre del host
 ![hostname](img/hostname.png)
 
-
 ### Cambiar hostnamme sin reiniciar
 ![hostname2](img/hostname2.png)
 ![hostname3](img/hostname3.png)
