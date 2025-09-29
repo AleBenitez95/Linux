@@ -1,5 +1,7 @@
 ## Conociendo el servidor Linux.
-
+```
+En amarillo sale los comandos y en zul los resultados.
+```
 
 ### Nombre del host
 ![hostname](img/hostname.png)
